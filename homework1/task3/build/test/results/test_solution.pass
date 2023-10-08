@@ -1,0 +1,34 @@
+---
+:source:
+  :path: test
+  :file: test_solution.c
+:successes:
+- :test: test_find_partial_quotient1
+  :line: 6
+  :message: ''
+  :unity_test_time: 0
+- :test: test_find_partial_quotient2
+  :line: 13
+  :message: ''
+  :unity_test_time: 0
+- :test: test_find_partial_quotient3
+  :line: 20
+  :message: ''
+  :unity_test_time: 0
+- :test: test_find_partial_quotient4
+  :line: 27
+  :message: ''
+  :unity_test_time: 0
+- :test: test_find_partial_quotient5
+  :line: 34
+  :message: ''
+  :unity_test_time: 0
+:failures: []
+:ignores: []
+:counts:
+  :total: 5
+  :passed: 5
+  :failed: 0
+  :ignored: 0
+:stdout: []
+:time: 0.02987060000305064
