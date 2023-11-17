@@ -1,0 +1,22 @@
+---
+:source:
+  :path: test
+  :file: test_solution.c
+:successes:
+- :test: test_pow_linear
+  :line: 6
+  :message: ''
+  :unity_test_time: 0
+- :test: test_pow_log
+  :line: 13
+  :message: ''
+  :unity_test_time: 0
+:failures: []
+:ignores: []
+:counts:
+  :total: 2
+  :passed: 2
+  :failed: 0
+  :ignored: 0
+:stdout: []
+:time: 0.03447080000114511
