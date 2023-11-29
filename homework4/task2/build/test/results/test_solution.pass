@@ -1,0 +1,30 @@
+---
+:source:
+  :path: test
+  :file: test_solution.c
+:successes:
+- :test: test_findMostFrequent_regularArray
+  :line: 6
+  :message: ''
+  :unity_test_time: 0
+- :test: test_findMostFrequent_allSame
+  :line: 13
+  :message: ''
+  :unity_test_time: 0
+- :test: test_findMostFrequent_emptyArray
+  :line: 21
+  :message: ''
+  :unity_test_time: 0
+- :test: test_findMostFrequent_sameFrequency
+  :line: 28
+  :message: ''
+  :unity_test_time: 0
+:failures: []
+:ignores: []
+:counts:
+  :total: 4
+  :passed: 4
+  :failed: 0
+  :ignored: 0
+:stdout: []
+:time: 0.03634550000060699

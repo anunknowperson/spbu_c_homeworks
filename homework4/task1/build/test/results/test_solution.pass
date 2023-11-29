@@ -1,0 +1,26 @@
+---
+:source:
+  :path: test
+  :file: test_solution.c
+:successes:
+- :test: test_toBinary
+  :line: 5
+  :message: ''
+  :unity_test_time: 0
+- :test: test_addBinary
+  :line: 19
+  :message: ''
+  :unity_test_time: 0
+- :test: test_toDecimal
+  :line: 29
+  :message: ''
+  :unity_test_time: 0
+:failures: []
+:ignores: []
+:counts:
+  :total: 3
+  :passed: 3
+  :failed: 0
+  :ignored: 0
+:stdout: []
+:time: 0.034553599998616846
